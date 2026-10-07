@@ -1,0 +1,18 @@
+{
+  "name": "Dhou - Belajar Bahasa Arab",
+  "short_name": "Dhou",
+  "description": "Aplikasi pembelajaran bahasa Arab fusha dan 'ammiyyah dengan video kontekstual, latihan gamifikasi, dan AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF8904",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
